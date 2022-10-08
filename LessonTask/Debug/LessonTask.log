@@ -1,0 +1,3 @@
+﻿  LessonTask.cpp
+C:\Users\Danla-monster\source\repos\LessonTask\LessonTask\LessonTask.cpp(78,16): warning C4101: Mistake: неиспользованная локальная переменная
+  LessonTask.vcxproj -> C:\Users\Danla-monster\source\repos\LessonTask\Debug\LessonTask.exe
